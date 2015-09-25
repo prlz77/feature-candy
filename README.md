@@ -8,4 +8,4 @@ Feature Candy works just executing the `feature-candy.py` script with python. Ju
 * Scipy (with Numpy, Matplotlib, etc)
 * Caffe (currently the only backend)
 
-
+Enjoy the sweet sweet features!
